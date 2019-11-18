@@ -1,0 +1,23 @@
+{
+  "name": "typescript-west-world",
+  "version": "1.0.0",
+  "description": "我的 TS 学习沙箱",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gakki-coco/typescript-west-world.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gakki-coco/typescript-west-world/issues"
+  },
+  "homepage": "https://github.com/Gakki-coco/typescript-west-world#readme",
+  "devDependencies": {
+    "@types/node": "^12.12.8"
+  }
+}
