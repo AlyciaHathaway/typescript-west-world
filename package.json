@@ -19,6 +19,6 @@
   "homepage": "https://github.com/Gakki-coco/typescript-west-world#readme",
   "devDependencies": {
     "@types/node": "^12.12.8",
-    "http-server": "^0.11.1"
+    "http-server": "^0.11.2"
   }
 }
